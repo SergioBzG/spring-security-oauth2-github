@@ -12,7 +12,7 @@
     <artifactId>spring-sec-OAUTH2-GitHub</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-sec-OAUTH2-GitHub</name>
-    <description>spring-sec-OAUTH2-GitHub</description>
+    <description>Demo project for implementation of OAuth 2.0 using GitHub as Authorization Server and this app as Client</description>
     <properties>
         <java.version>21</java.version>
     </properties>
